@@ -1,72 +1,12 @@
-const messages = [{
-    "id": 1,
-    "first_name": "Mufinella",
-    "last_name": "Coaster",
-    "email": "mcoaster0@craigslist.org",
-    "gender": "Female",
-    "ip_address": "214.168.133.18"
-}, {
-    "id": 2,
-    "first_name": "Quentin",
-    "last_name": "Course",
-    "email": "qcourse1@google.com",
-    "gender": "Female",
-    "ip_address": "221.50.202.210"
-}, {
-    "id": 3,
-    "first_name": "Maura",
-    "last_name": "Hansom",
-    "email": "mhansom2@wikispaces.com",
-    "gender": "Polygender",
-    "ip_address": "167.113.22.14"
-}, {
-    "id": 4,
-    "first_name": "Mallory",
-    "last_name": "Bilsborrow",
-    "email": "mbilsborrow3@ebay.com",
-    "gender": "Male",
-    "ip_address": "197.62.16.132"
-}, {
-    "id": 5,
-    "first_name": "Lazaro",
-    "last_name": "O' Concannon",
-    "email": "loconcannon4@163.com",
-    "gender": "Male",
-    "ip_address": "150.20.69.152"
-}, {
-    "id": 6,
-    "first_name": "Rayna",
-    "last_name": "Wasbey",
-    "email": "rwasbey5@ucsd.edu",
-    "gender": "Female",
-    "ip_address": "251.23.122.120"
-}, {
-    "id": 7,
-    "first_name": "Janaya",
-    "last_name": "Simmell",
-    "email": "jsimmell6@springer.com",
-    "gender": "Female",
-    "ip_address": "9.5.119.150"
-}, {
-    "id": 8,
-    "first_name": "Janek",
-    "last_name": "Laurencot",
-    "email": "jlaurencot7@dagondesign.com",
-    "gender": "Male",
-    "ip_address": "166.112.113.5"
-}, {
-    "id": 9,
-    "first_name": "Shayla",
-    "last_name": "Ashpital",
-    "email": "sashpital8@go.com",
-    "gender": "Male",
-    "ip_address": "176.184.67.132"
-}, {
-    "id": 10,
-    "first_name": "Carmencita",
-    "last_name": "Mylan",
-    "email": "cmylan9@biblegateway.com",
-    "gender": "Female",
-    "ip_address": "237.182.202.42"
-}];
-module.exports = messages;
+// const client_exported = require('./connection')
+// client_exported.connect();
+// let msgs;
+// client_exported.query('select * from messages;', (err: any, res: any) => {
+//     try {
+//       msgs = res.rows;
+// } catch (e) {
+//     console.error(err.message);
+// }
+// })
+// client_exported.end;
+// module.exports = msgs;
